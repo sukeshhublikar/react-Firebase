@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.AddButton {
+  background: #ffffff;
+  border: 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  font-weight: bold;
+  color: rgb(12, 73, 66);
+  font-family: sans-serif;
+  font-size: 13px;
+  margin: 0 auto 20px;
+  border-radius: 11px;
+  float: right;
+  line-height: 40px;
+  width: 80px;
+  margin: 15px;
+  border: 1px solid #0a5e54;
+}
+
+.alert {
+  display: -webkit-inline-box;
+  padding: 20px;
+  background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  color: white;
+  width: 400px;
+  text-align: -webkit-center;
+}

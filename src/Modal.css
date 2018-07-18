@@ -1,0 +1,54 @@
+.inputbox {
+    border: 1px solid #eaedf2;
+    border-radius: 3px;
+    padding: 1rem 0 1rem 3.2rem;
+    width: 200px;
+    outline: none;
+    margin-bottom: 1rem;
+    font-family: inherit;
+  }
+
+  button {
+    background: #ffffff;
+    border: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: rgb(12, 73, 66);
+    font-size: 13px;
+    margin: 0 auto 20px;
+    border-radius: 11px;
+    float: right;
+    line-height: 40px;
+    width: 60px;
+    margin-left: 10px;
+
+    border: 1px solid #0a5e54;
+  }
+
+  label:after{
+    content:"*" ;
+    color:red   
+    }
+
+   .labelForInput {
+    border-bottom: 2px solid #95c7c1;
+    float: left;
+    width: 12%;
+   } 
+
+   .label_file {
+       border-bottom : 2px solid #95c7c1;
+       float: left;
+   }
+   
+   .itemheading {
+    margin: 15px;
+    font-size: 2em;
+   }
+
+   .itemheadingBorder { 
+       border-bottom: 2px solid #95c7c1 
+    }
+
+    .ml15 {
+        margin: 15px; 
+    }
